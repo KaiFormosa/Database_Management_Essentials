@@ -1,8 +1,8 @@
 # Database Management Essentials
 
-This repository is a project portfolio for the "Database Management Essentials" certification program by Coursera. This course provides the foundation for a career in database development, data warehousing, or business intelligence. Through this course, students learn to create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. 
+This repository is a project portfolio for the "Database Management Essentials" certification program by Coursera. This program is part 1 of the "Data Warehousing for Business Intelligence" Specilization which provides the foundation for a career in database development, data warehousing, or business intelligence. Through this program, students learn to create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. 
 
-There are 10 modules in this course. Each folder in this repository is a collection of the working and data files for the assignment in each module.
+There are 10 modules in this program. Each folder in this repository is a collection of the working and data files for the assignment in each module.
 
 ---
 
